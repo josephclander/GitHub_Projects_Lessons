@@ -15,3 +15,6 @@ def my_method
   puts "Hello to you"
 end
 ```
+
+Add hyperlinks with `[]()` these characters.
+Here is a link to my [Notion notes page](https://jlander.notion.site/Code-Notes-1977ee631a3941b99a41b16aadd49a44).
